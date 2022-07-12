@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Big Burger",
+    "description": "Spicy burger with big size beef",
+    "price": 36000,
+    "stock": 10,
+    "imgUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1530&q=80",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Chicken Wings",
+    "description": "Crispy chicken with tomatoe sauce",
+    "price": 19000,
+    "stock": 10,
+    "imgUrl": "https://images.unsplash.com/photo-1637273484026-11d51fb64024?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Lychee Tea",
+    "description": "Tea with iced lychee squash",
+    "price": 29500,
+    "stock": 10,
+    "imgUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "authorId": 1,
+    "categoryId": 3
+  }
+]
